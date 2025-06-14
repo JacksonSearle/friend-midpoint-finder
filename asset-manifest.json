@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Cyour-repo-name%3E/static/css/main.323d7611.css",
-    "main.js": "/%3Cyour-repo-name%3E/static/js/main.08ec5800.js",
-    "static/js/453.a9732b6b.chunk.js": "/%3Cyour-repo-name%3E/static/js/453.a9732b6b.chunk.js",
-    "index.html": "/%3Cyour-repo-name%3E/index.html",
-    "main.323d7611.css.map": "/%3Cyour-repo-name%3E/static/css/main.323d7611.css.map",
-    "main.08ec5800.js.map": "/%3Cyour-repo-name%3E/static/js/main.08ec5800.js.map",
-    "453.a9732b6b.chunk.js.map": "/%3Cyour-repo-name%3E/static/js/453.a9732b6b.chunk.js.map"
+    "main.css": "/friend-midpoint-finder/static/css/main.323d7611.css",
+    "main.js": "/friend-midpoint-finder/static/js/main.1dd99529.js",
+    "static/js/453.a9732b6b.chunk.js": "/friend-midpoint-finder/static/js/453.a9732b6b.chunk.js",
+    "index.html": "/friend-midpoint-finder/index.html",
+    "main.323d7611.css.map": "/friend-midpoint-finder/static/css/main.323d7611.css.map",
+    "main.1dd99529.js.map": "/friend-midpoint-finder/static/js/main.1dd99529.js.map",
+    "453.a9732b6b.chunk.js.map": "/friend-midpoint-finder/static/js/453.a9732b6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.08ec5800.js"
+    "static/js/main.1dd99529.js"
   ]
 }
